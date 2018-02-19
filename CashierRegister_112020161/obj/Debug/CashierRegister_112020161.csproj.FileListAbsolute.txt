@@ -1,0 +1,103 @@
+c:\users\kings\onedrive\documents\visual studio 2015\Projects\CashierRegister_112020161\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.exe.config
+c:\users\kings\onedrive\documents\visual studio 2015\Projects\CashierRegister_112020161\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.exe
+c:\users\kings\onedrive\documents\visual studio 2015\Projects\CashierRegister_112020161\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.pdb
+c:\users\kings\onedrive\documents\visual studio 2015\Projects\CashierRegister_112020161\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csprojResolveAssemblyReference.cache
+c:\users\kings\onedrive\documents\visual studio 2015\Projects\CashierRegister_112020161\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.Form1.resources
+c:\users\kings\onedrive\documents\visual studio 2015\Projects\CashierRegister_112020161\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.Properties.Resources.resources
+c:\users\kings\onedrive\documents\visual studio 2015\Projects\CashierRegister_112020161\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csproj.GenerateResource.Cache
+c:\users\kings\onedrive\documents\visual studio 2015\Projects\CashierRegister_112020161\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.exe
+c:\users\kings\onedrive\documents\visual studio 2015\Projects\CashierRegister_112020161\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.pdb
+D:\CashierRegister_112020161\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.exe.config
+D:\CashierRegister_112020161\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.exe
+D:\CashierRegister_112020161\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.pdb
+D:\CashierRegister_112020161\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.exe
+D:\CashierRegister_112020161\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.pdb
+D:\CashierRegister_112020161\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csprojResolveAssemblyReference.cache
+D:\CashierRegister_112020161\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.Form1.resources
+D:\CashierRegister_112020161\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.Properties.Resources.resources
+D:\CashierRegister_112020161\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csproj.GenerateResource.Cache
+D:\Users\Jose A. Alvarado\Google Drive\Team Project\CashierRegister_112320161\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.exe.config
+D:\Users\Jose A. Alvarado\Google Drive\Team Project\CashierRegister_112320161\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.exe
+D:\Users\Jose A. Alvarado\Google Drive\Team Project\CashierRegister_112320161\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.pdb
+D:\Users\Jose A. Alvarado\Google Drive\Team Project\CashierRegister_112320161\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.exe
+D:\Users\Jose A. Alvarado\Google Drive\Team Project\CashierRegister_112320161\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.pdb
+D:\Users\Jose A. Alvarado\Google Drive\Team Project\CashierRegister_112320161\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csprojResolveAssemblyReference.cache
+D:\Users\Jose A. Alvarado\Google Drive\Team Project\CashierRegister_112320161\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.Form1.resources
+D:\Users\Jose A. Alvarado\Google Drive\Team Project\CashierRegister_112320161\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.Properties.Resources.resources
+D:\Users\Jose A. Alvarado\Google Drive\Team Project\CashierRegister_112320161\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csproj.GenerateResource.Cache
+C:\Users\Jose\Google Drive\Team Project\CashierRegister_112320161\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.exe.config
+C:\Users\Jose\Google Drive\Team Project\CashierRegister_112320161\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.exe
+C:\Users\Jose\Google Drive\Team Project\CashierRegister_112320161\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.pdb
+C:\Users\Jose\Google Drive\Team Project\CashierRegister_112320161\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.exe
+C:\Users\Jose\Google Drive\Team Project\CashierRegister_112320161\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.pdb
+C:\Users\Jose\Google Drive\Team Project\CashierRegister_112320161\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Google Drive\Team Project\CashierRegister_112320161\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.Form1.resources
+C:\Users\Jose\Google Drive\Team Project\CashierRegister_112320161\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.Properties.Resources.resources
+C:\Users\Jose\Google Drive\Team Project\CashierRegister_112320161\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csproj.GenerateResource.Cache
+C:\Users\Jose\Google Drive\Team Project\CashierRegister_112320161\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.QuantityChange.resources
+\\192.168.0.4\registerProject\CashierRegister_12132016\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.exe.config
+\\192.168.0.4\registerProject\CashierRegister_12132016\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.exe
+\\192.168.0.4\registerProject\CashierRegister_12132016\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.pdb
+\\192.168.0.4\registerProject\CashierRegister_12132016\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.exe
+\\192.168.0.4\registerProject\CashierRegister_12132016\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.pdb
+\\192.168.0.4\registerProject\CashierRegister_12132016\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csprojResolveAssemblyReference.cache
+\\192.168.0.4\registerProject\CashierRegister_12132016\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.Form1.resources
+\\192.168.0.4\registerProject\CashierRegister_12132016\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.Properties.Resources.resources
+\\192.168.0.4\registerProject\CashierRegister_12132016\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.QuantityChange.resources
+\\192.168.0.4\registerProject\CashierRegister_12132016\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csproj.GenerateResource.Cache
+\\192.168.0.4\registerProject\CashierRegister_12132016\CashierRegister_112020161\bin\Debug\PSTaskDialog.dll
+C:\Users\Jose\Desktop\CashierRegister_12132016\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.exe.config
+C:\Users\Jose\Desktop\CashierRegister_12132016\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.exe
+C:\Users\Jose\Desktop\CashierRegister_12132016\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.pdb
+C:\Users\Jose\Desktop\CashierRegister_12132016\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.exe
+C:\Users\Jose\Desktop\CashierRegister_12132016\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.pdb
+C:\Users\Jose\Desktop\CashierRegister_12132016\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Desktop\CashierRegister_12132016\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.Form1.resources
+C:\Users\Jose\Desktop\CashierRegister_12132016\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.Properties.Resources.resources
+C:\Users\Jose\Desktop\CashierRegister_12132016\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.QuantityChange.resources
+C:\Users\Jose\Desktop\CashierRegister_12132016\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csproj.GenerateResource.Cache
+C:\Users\Jose A. Alvarado\Desktop\CashierRegister_1172017\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.exe.config
+C:\Users\Jose A. Alvarado\Desktop\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.exe
+C:\Users\Jose A. Alvarado\Desktop\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.pdb
+C:\Users\Jose A. Alvarado\Desktop\CashierRegister_1172017\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.exe
+C:\Users\Jose A. Alvarado\Desktop\CashierRegister_1172017\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.pdb
+C:\Users\Jose A. Alvarado\Desktop\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csprojResolveAssemblyReference.cache
+C:\Users\Jose A. Alvarado\Desktop\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.Form1.resources
+C:\Users\Jose A. Alvarado\Desktop\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.Properties.Resources.resources
+C:\Users\Jose A. Alvarado\Desktop\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.QuantityChange.resources
+C:\Users\Jose A. Alvarado\Desktop\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csproj.GenerateResource.Cache
+C:\Users\Jose A. Alvarado\Desktop\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.DiscountForm.resources
+C:\Users\alvarado0064\Desktop\CashierRegister_1172017\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.exe.config
+C:\Users\alvarado0064\Desktop\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.exe
+C:\Users\alvarado0064\Desktop\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.pdb
+C:\Users\alvarado0064\Desktop\CashierRegister_1172017\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.exe
+C:\Users\alvarado0064\Desktop\CashierRegister_1172017\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.pdb
+C:\Users\alvarado0064\Desktop\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csprojResolveAssemblyReference.cache
+C:\Users\alvarado0064\Desktop\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.DiscountForm.resources
+C:\Users\alvarado0064\Desktop\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.Form1.resources
+C:\Users\alvarado0064\Desktop\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.Properties.Resources.resources
+C:\Users\alvarado0064\Desktop\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.QuantityChange.resources
+C:\Users\alvarado0064\Desktop\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csproj.GenerateResource.Cache
+C:\Users\Jose\Desktop\CashierRegister_1172017\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.exe.config
+C:\Users\Jose\Desktop\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.exe
+C:\Users\Jose\Desktop\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.pdb
+C:\Users\Jose\Desktop\CashierRegister_1172017\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.exe
+C:\Users\Jose\Desktop\CashierRegister_1172017\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.pdb
+C:\Users\Jose\Desktop\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Desktop\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.DiscountForm.resources
+C:\Users\Jose\Desktop\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.Form1.resources
+C:\Users\Jose\Desktop\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.Properties.Resources.resources
+C:\Users\Jose\Desktop\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.QuantityChange.resources
+C:\Users\Jose\Desktop\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csproj.GenerateResource.Cache
+D:\CashierRegister_1172017\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.exe.config
+D:\CashierRegister_1172017\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.exe
+D:\CashierRegister_1172017\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.pdb
+D:\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csprojResolveAssemblyReference.cache
+D:\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.DiscountForm.resources
+D:\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.Form1.resources
+D:\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.Properties.Resources.resources
+D:\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.QuantityChange.resources
+D:\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csproj.GenerateResource.Cache
+D:\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csproj.CoreCompileInputs.cache
+D:\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.exe
+D:\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.pdb
