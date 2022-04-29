@@ -88,6 +88,7 @@
             this.PayButton.TabIndex = 2;
             this.PayButton.Text = "Pay";
             this.PayButton.UseVisualStyleBackColor = true;
+            this.PayButton.Click += new System.EventHandler(this.PayButton_Click);
             // 
             // CheckPrice
             // 
@@ -104,6 +105,7 @@
             // 
             this.TotalPriceView.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.TotalPriceView.BackColor = System.Drawing.SystemColors.MenuText;
+            this.TotalPriceView.HideSelection = false;
             this.TotalPriceView.Location = new System.Drawing.Point(713, 12);
             this.TotalPriceView.Name = "TotalPriceView";
             this.TotalPriceView.Size = new System.Drawing.Size(368, 237);
@@ -242,12 +244,14 @@
             this.QuantityCol,
             this.UnitPriceCol,
             this.TotalPrice});
+            this.ListOfItemView.HideSelection = false;
             this.ListOfItemView.Location = new System.Drawing.Point(12, 77);
             this.ListOfItemView.Name = "ListOfItemView";
             this.ListOfItemView.Size = new System.Drawing.Size(695, 445);
             this.ListOfItemView.TabIndex = 4;
             this.ListOfItemView.UseCompatibleStateImageBehavior = false;
             this.ListOfItemView.View = System.Windows.Forms.View.Details;
+            this.ListOfItemView.SelectedIndexChanged += new System.EventHandler(this.ListOfItemView_SelectedIndexChanged);
             // 
             // UnitPriceCol
             // 

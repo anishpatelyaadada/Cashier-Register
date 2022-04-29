@@ -101,3 +101,17 @@ D:\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_1
 D:\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csproj.CoreCompileInputs.cache
 D:\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.exe
 D:\CashierRegister_1172017\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.pdb
+C:\Users\apatel\Downloads\Cashier-Register\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.exe.config
+C:\Users\apatel\Downloads\Cashier-Register\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.exe
+C:\Users\apatel\Downloads\Cashier-Register\CashierRegister_112020161\bin\Debug\CashierRegister_112020161.pdb
+C:\Users\apatel\Downloads\Cashier-Register\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csproj.AssemblyReference.cache
+C:\Users\apatel\Downloads\Cashier-Register\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csproj.SuggestedBindingRedirects.cache
+C:\Users\apatel\Downloads\Cashier-Register\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.DiscountForm.resources
+C:\Users\apatel\Downloads\Cashier-Register\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.Form1.resources
+C:\Users\apatel\Downloads\Cashier-Register\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.Properties.Resources.resources
+C:\Users\apatel\Downloads\Cashier-Register\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.QuantityChange.resources
+C:\Users\apatel\Downloads\Cashier-Register\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csproj.GenerateResource.cache
+C:\Users\apatel\Downloads\Cashier-Register\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csproj.CoreCompileInputs.cache
+C:\Users\apatel\Downloads\Cashier-Register\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.csproj.CopyComplete
+C:\Users\apatel\Downloads\Cashier-Register\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.exe
+C:\Users\apatel\Downloads\Cashier-Register\CashierRegister_112020161\obj\Debug\CashierRegister_112020161.pdb

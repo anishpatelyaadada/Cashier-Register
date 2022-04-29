@@ -254,6 +254,16 @@ namespace CashierRegister_112020161
             discountFinal = newD.currDiscountAmt;
             newD.Close();
         }
+
+        private void PayButton_Click(object sender, EventArgs e)
+        {
+            //test
+        }
+
+        private void ListOfItemView_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 
     class NoItemSelected:Exception
